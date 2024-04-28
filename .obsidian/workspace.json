@@ -128,13 +128,29 @@
                 "file": "xmind自动备份.md"
               }
             }
+          },
+          {
+            "id": "acf0948c45cc66ee",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "892b929fdf6198ca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,5 +163,17 @@
     }
   },
   "active": "99fcefe381ce0867",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "3d7853152d78463bb1bb2a3225/fb9989640668401d3f73d994ab.xmind",
+    "3d7853152d78463bb1bb2a3225/e7c8d58e81db72a673fd387425.xmind",
+    "3d7853152d78463bb1bb2a3225/9b48d2f2831971f4fbddbaad53.xmind",
+    "3d7853152d78463bb1bb2a3225/43a82762021bd5d3076408096f.xmind",
+    "3d7853152d78463bb1bb2a3225",
+    "3cdb68bdc00975d91abe98af4d/f9ab0670baf83f1641dd39dc88.xmind",
+    "3cdb68bdc00975d91abe98af4d",
+    "fe08df46e82a2a6f1923588939/4b59c2d81419a06d7cec1863d7.xmind",
+    "fe08df46e82a2a6f1923588939",
+    "f799cfd002d93c88840199c7c5/e8c9a180debb6a58a3b4b88652.xmind",
+    "f799cfd002d93c88840199c7c5/d3db46461979c14b8f3efb6121.xmind"
+  ]
 }
